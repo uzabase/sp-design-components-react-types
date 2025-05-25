@@ -5,5 +5,5 @@
 ## インストール
 
 ```bash
-npm install uzabase/sp-design-components-react-types
+npm install --save-dev uzabase/sp-design-components-react-types
 ```
