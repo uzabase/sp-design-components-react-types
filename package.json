@@ -1,0 +1,11 @@
+{
+  "name": "sp-design-components-react-types",
+  "version": "0.0.1",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "peerDependencies": {
+    "react": "^18"
+  }
+}
