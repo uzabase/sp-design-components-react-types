@@ -7,3 +7,12 @@
 ```bash
 npm install --save-dev uzabase/sp-design-components-react-types
 ```
+
+```json
+// tsconfig.json
+{
+  "compilerOptions": {
+    "types": ["sp-design-components-react-types"]
+  }
+}
+```
