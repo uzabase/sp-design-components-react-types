@@ -8,7 +8,7 @@
 npm install --save-dev uzabase/sp-design-components-react-types
 ```
 
-```json
+```json5
 // tsconfig.json
 {
   "compilerOptions": {
